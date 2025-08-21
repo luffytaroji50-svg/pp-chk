@@ -1,4 +1,4 @@
-import imghdr
+import imghdr_py as imghdr
 import os
 import threading
 from flask import Flask, request
